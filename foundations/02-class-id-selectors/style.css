@@ -1,0 +1,20 @@
+.redbg {
+    background-color: #FFCCCB;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#t1 {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#t2 {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.fat {
+    font-size: 24px;
+}
+
