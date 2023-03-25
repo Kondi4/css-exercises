@@ -1,0 +1,13 @@
+.classy {
+    background-color: black;
+    color: white;
+}
+
+.notclassy {
+    background-color: yellow;
+}
+
+.classy, .notclassy {
+    font-size: 28px;
+    font-family: "Helvetica","Times New Roman","sans-serif";
+}
